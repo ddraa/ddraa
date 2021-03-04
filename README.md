@@ -1,4 +1,4 @@
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there 👋
+## Hi there 👋
 <br/>
 
 [![Solved.ac
